@@ -1,1 +1,1 @@
-# humanmotion-detection
+# This is a very simple motion detection project using pre-trained model YOLOv8. Here is a footage of how this functions https://drive.google.com/file/d/1gB41zWZWf9Jg-5LB9YynsdbEONaKLTPr/view?usp=sharing
